@@ -1,0 +1,95 @@
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+.one{
+   margin: 30px;
+}
+.viga button{
+    color: fuchsia;
+    margin: 30px;
+    padding: 15px;
+    border: solid fuchsia;
+    border-radius: 30px;
+}
+.container1 button{
+color: aliceblue;
+background-color:fuchsia ;
+border-color: fuchsia;
+padding: 15px 35px;
+border-radius: 30px;
+margin-top: 5px;
+}
+.container1{
+    text-align: center;
+    margin-top: 50px;
+}
+.container1 img{
+    height: auto;
+    width: 800px;
+    margin-top: 50px;
+}
+.container2{
+    display: flex;
+    justify-content:space-around;
+    padding: 0 350px;
+    margin-top: 100px;
+}
+
+.container2 h1{
+    font-size: 50px;
+}
+.container2 p{
+    font-size: 20px;
+}
+.container3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 200px;
+}
+.container3 img{
+    height: 500px;
+    width: 700px;
+
+}
+.container4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 200px;
+}
+.container4 img{
+    height: 500px;
+    width: 700px;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.footer1 h4 i{
+    padding-right: 20px;
+}
+.footer2 input{
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.footer2 button{
+    padding: 10px 35px;
+    margin-left: 30px;
+    background-color: fuchsia;
+    color: aliceblue;
+    border-radius: 5px;
+    border: 1px fuchsia;
+}
+.icons{
+display: flex;
+margin-left: 270px;
+}
+.icons a {
+    margin-right: 20px;
+    
+}
